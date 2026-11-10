@@ -1,0 +1,48 @@
+@import '@fontsource/barlow/400.css';
+@import '@fontsource/barlow/500.css';
+@import '@fontsource/barlow/600.css';
+@import '@fontsource/barlow-condensed/600.css';
+@import '@fontsource/barlow-condensed/700.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; }
+  body { @apply font-sans text-[17px] leading-relaxed antialiased; background: #F1ECE1; }
+  h1, h2, h3 { @apply font-display font-bold uppercase tracking-[0.015em] leading-[1.02]; }
+  h1 { @apply text-[2.6rem] sm:text-[3.4rem] lg:text-[4.1rem]; }
+  h2 { @apply text-[1.9rem] sm:text-[2.2rem]; }
+  h3 { @apply text-[1.35rem]; }
+  a { @apply text-spruce-deep underline underline-offset-4 decoration-rule hover:decoration-spruce-deep; }
+  :focus-visible { outline: 3px solid #3C5A73; outline-offset: 2px; }
+  ::selection { background: #D8E2CB; }
+}
+
+@layer components {
+  .wrap { @apply mx-auto w-full max-w-[1180px] px-4 sm:px-6 lg:px-8; }
+  .eyebrow { @apply font-display text-[0.95rem] font-semibold uppercase tracking-[0.12em] text-stone flex items-center gap-2; }
+  .blaze-mark { @apply inline-block h-[18px] w-[5px] bg-blaze shrink-0; }
+  .btn { @apply inline-flex min-h-[46px] items-center justify-center gap-2 rounded px-5 font-semibold no-underline transition-colors duration-150 disabled:cursor-not-allowed disabled:opacity-50 cursor-pointer; }
+  .btn-primary { @apply bg-blaze text-white hover:bg-blaze-ink; }
+  .btn-spruce { @apply bg-spruce-deep text-white hover:bg-ink no-underline; }
+  .btn-ghost { @apply border border-ink/30 text-ink hover:border-ink bg-transparent; }
+  .btn-small { @apply min-h-[38px] px-3 text-[0.95rem]; }
+  .field-label { @apply block text-[0.95rem] font-semibold text-ink mb-1.5; }
+  .input { @apply block w-full min-h-[46px] rounded-[2px] border border-rule bg-paper px-3 py-2 text-ink placeholder:text-stone/70 focus:border-slate; }
+  .hint { @apply text-[0.9rem] text-stone; }
+  .panel { @apply border-t border-ink/80 pt-5; }
+  .ruled > li + li, .ruled > div + div { @apply border-t border-rule; }
+  .alert { @apply rounded-[2px] border-t-4 px-4 py-3 text-[0.98rem]; }
+  .alert-error { @apply border-danger bg-[#F6E4E1] text-ink; }
+  .alert-ok { @apply border-spruce bg-[#E4EDE0] text-ink; }
+  .alert-info { @apply border-slate bg-[#E3EAF0] text-ink; }
+  .pill { @apply inline-flex max-w-full items-center gap-1.5 rounded-[2px] text-left leading-snug border px-2 py-[2px] font-display text-[0.9rem] font-semibold uppercase tracking-[0.06em]; }
+  .tag-demo { @apply pill border-blaze text-blaze-ink bg-[#F5E6DC]; }
+  .num { font-variant-numeric: tabular-nums; }
+  .skeleton { @apply animate-pulse rounded-[2px] bg-rule/70; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}

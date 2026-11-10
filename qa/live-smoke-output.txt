@@ -1,0 +1,22 @@
+(node:1923949) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 375px home 200 
+PASS 375px home has h1 
+PASS 375px home no horizontal scroll 
+PASS 375px departures lists open dates 
+PASS 375px departures no horizontal scroll 
+PASS 375px demo client sees TB-DEMO01 
+PASS 375px trip page permit checklist 
+PASS 375px staff operations table 
+PASS 375px admin overview and log 
+PASS 1440px home 200 
+PASS 1440px home has h1 
+PASS 1440px home no horizontal scroll 
+PASS 1440px departures lists open dates 
+PASS 1440px departures no horizontal scroll 
+PASS 1440px demo client sees TB-DEMO01 
+PASS 1440px trip page permit checklist 
+PASS 1440px staff operations table 
+PASS 1440px admin overview and log 
+PASS no console or page errors 
+SMOKE 19 of 19 pass

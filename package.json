@@ -1,0 +1,38 @@
+{
+  "name": "trailbook",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Trailbook: trekking agency operations for Nepal (DEMO data). Not an official permit system.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc -p tsconfig.json --noEmit && tsc -p tsconfig.api.json --noEmit",
+    "test": "node --test --experimental-strip-types api/test/*.test.ts shared/test/*.test.ts",
+    "build": "tsc -p tsconfig.json --noEmit && vite build && node api/build.mjs",
+    "serve:local": "node --experimental-strip-types tools/local-server.ts 8795"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.28.0",
+    "@fontsource/barlow": "5.1.0",
+    "@fontsource/barlow-condensed": "5.1.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "4.20241022.0",
+    "@types/node": "22.10.0",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "@vitejs/plugin-react": "4.3.4",
+    "autoprefixer": "10.4.20",
+    "esbuild": "0.21.5",
+    "postcss": "8.4.49",
+    "tailwindcss": "3.4.17",
+    "typescript": "5.6.3",
+    "vite": "5.4.11"
+  }
+}

@@ -1,0 +1,417 @@
+[
+ {
+  "check": "375px home renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px home no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px departures renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px departures no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px departure-detail renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px departure-detail no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px login renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px login no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px terms renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px terms no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px privacy renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px privacy no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px not-found renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px not-found no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px home renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px home no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px departures renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px departures no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px departure-detail renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px departure-detail no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px login renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px login no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px terms renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px terms no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px privacy renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px privacy no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px not-found renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "768px not-found no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px home renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px home no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px departures renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px departures no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px departure-detail renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px departure-detail no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px login renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px login no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px terms renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px terms no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px privacy renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px privacy no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px not-found renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1024px not-found no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px home renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px home no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px departures renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px departures no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px departure-detail renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px departure-detail no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px login renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px login no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px terms renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px terms no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px privacy renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px privacy no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px not-found renders an h1",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px not-found no horizontal scroll",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px demo client lands on My trips",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px demo booking TB-DEMO01 is listed",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px trip shows permit disclaimer",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px document tick survives reload",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px booking success state shows reference",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px bad mobile shows an error",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px client sees role refusal on /staff",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px anonymous /trips asks to sign in",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px staff lands on operations",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px staff confirms a request",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px staff sees permit selects",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px admin sees the activity log",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "375px admin dashboard shows payments taken 0",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px demo client lands on My trips",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px demo booking TB-DEMO01 is listed",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px trip shows permit disclaimer",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px document tick survives reload",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px booking success state shows reference",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px bad mobile shows an error",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px client sees role refusal on /staff",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px anonymous /trips asks to sign in",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px staff lands on operations",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px staff confirms a request",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px staff sees permit selects",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px admin sees the activity log",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "1440px admin dashboard shows payments taken 0",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "no console errors or page errors across all runs",
+  "ok": true,
+  "detail": ""
+ }
+]

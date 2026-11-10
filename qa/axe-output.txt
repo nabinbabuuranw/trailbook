@@ -1,0 +1,17 @@
+(node:1923715) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+375:home violations: 0 []
+375:departures violations: 0 []
+375:departure-detail violations: 0 []
+375:login violations: 0 []
+375:register violations: 0 []
+375:terms violations: 0 []
+1440:home violations: 0 []
+1440:departures violations: 0 []
+1440:departure-detail violations: 0 []
+1440:login violations: 0 []
+1440:register violations: 0 []
+1440:terms violations: 0 []
+1440:trip-detail violations: 0 []
+1440:staff-departure violations: 0 []
+TOTAL_RULE_VIOLATIONS 0

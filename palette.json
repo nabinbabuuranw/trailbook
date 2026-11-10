@@ -1,0 +1,48 @@
+{
+  "name": "Trailbook Blaze (built from five hexes; see DESIGN.md for the Coolors deviation)",
+  "coolors_url": null,
+  "coolors_status": "NOT PICKED on Nabin's Coolors account (stated deviation, same route as Days 5 to 7)",
+  "tokens": {
+    "ink": "#17261F",
+    "bone": "#F1ECE1",
+    "paper": "#F8F5EE",
+    "spruce": "#2D5A4C",
+    "spruce-deep": "#1F4035",
+    "spruce-soft": "#D8E2CB",
+    "blaze": "#B5531F",
+    "blaze-ink": "#8F3E14",
+    "slate": "#3C5A73",
+    "stone": "#5E594E",
+    "rule": "#CFC6B2",
+    "danger": "#9E2B22",
+    "white": "#FFFFFF"
+  },
+  "roles": {
+    "page": "bone",
+    "surface": "paper",
+    "text": "ink",
+    "primary": "spruce-deep (buttons use blaze for the main action)",
+    "accent": "blaze",
+    "info": "slate",
+    "muted_text": "stone",
+    "border": "rule",
+    "danger": "danger"
+  },
+  "contrast_wcag": {
+    "ink on bone": 13.37,
+    "ink on paper": 14.46,
+    "stone on bone": 5.91,
+    "stone on paper": 6.4,
+    "white on spruce": 7.84,
+    "white on blaze": 4.97,
+    "white on blaze-ink": 7.32,
+    "blaze-ink on bone": 6.22,
+    "blaze-ink on paper": 6.73,
+    "spruce on bone": 6.66,
+    "slate on paper": 6.65,
+    "danger on paper": 6.83,
+    "white on spruce-deep": 11.39
+  },
+  "method": "Hex values chosen by hand for the trail-marker theme; contrast computed with the WCAG 2.x relative-luminance formula (script run 2026-11-10).",
+  "used_by": "day-008-trailbook (Trailbook)"
+}

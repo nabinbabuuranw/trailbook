@@ -1,0 +1,86 @@
+(node:1923440) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 375px home renders an h1 
+PASS 375px home no horizontal scroll 
+PASS 375px departures renders an h1 
+PASS 375px departures no horizontal scroll 
+PASS 375px departure-detail renders an h1 
+PASS 375px departure-detail no horizontal scroll 
+PASS 375px login renders an h1 
+PASS 375px login no horizontal scroll 
+PASS 375px terms renders an h1 
+PASS 375px terms no horizontal scroll 
+PASS 375px privacy renders an h1 
+PASS 375px privacy no horizontal scroll 
+PASS 375px not-found renders an h1 
+PASS 375px not-found no horizontal scroll 
+PASS 768px home renders an h1 
+PASS 768px home no horizontal scroll 
+PASS 768px departures renders an h1 
+PASS 768px departures no horizontal scroll 
+PASS 768px departure-detail renders an h1 
+PASS 768px departure-detail no horizontal scroll 
+PASS 768px login renders an h1 
+PASS 768px login no horizontal scroll 
+PASS 768px terms renders an h1 
+PASS 768px terms no horizontal scroll 
+PASS 768px privacy renders an h1 
+PASS 768px privacy no horizontal scroll 
+PASS 768px not-found renders an h1 
+PASS 768px not-found no horizontal scroll 
+PASS 1024px home renders an h1 
+PASS 1024px home no horizontal scroll 
+PASS 1024px departures renders an h1 
+PASS 1024px departures no horizontal scroll 
+PASS 1024px departure-detail renders an h1 
+PASS 1024px departure-detail no horizontal scroll 
+PASS 1024px login renders an h1 
+PASS 1024px login no horizontal scroll 
+PASS 1024px terms renders an h1 
+PASS 1024px terms no horizontal scroll 
+PASS 1024px privacy renders an h1 
+PASS 1024px privacy no horizontal scroll 
+PASS 1024px not-found renders an h1 
+PASS 1024px not-found no horizontal scroll 
+PASS 1440px home renders an h1 
+PASS 1440px home no horizontal scroll 
+PASS 1440px departures renders an h1 
+PASS 1440px departures no horizontal scroll 
+PASS 1440px departure-detail renders an h1 
+PASS 1440px departure-detail no horizontal scroll 
+PASS 1440px login renders an h1 
+PASS 1440px login no horizontal scroll 
+PASS 1440px terms renders an h1 
+PASS 1440px terms no horizontal scroll 
+PASS 1440px privacy renders an h1 
+PASS 1440px privacy no horizontal scroll 
+PASS 1440px not-found renders an h1 
+PASS 1440px not-found no horizontal scroll 
+PASS 375px demo client lands on My trips 
+PASS 375px demo booking TB-DEMO01 is listed 
+PASS 375px trip shows permit disclaimer 
+PASS 375px document tick survives reload 
+PASS 375px booking success state shows reference 
+PASS 375px bad mobile shows an error 
+PASS 375px client sees role refusal on /staff 
+PASS 375px anonymous /trips asks to sign in 
+PASS 375px staff lands on operations 
+PASS 375px staff confirms a request 
+PASS 375px staff sees permit selects 
+PASS 375px admin sees the activity log 
+PASS 375px admin dashboard shows payments taken 0 
+PASS 1440px demo client lands on My trips 
+PASS 1440px demo booking TB-DEMO01 is listed 
+PASS 1440px trip shows permit disclaimer 
+PASS 1440px document tick survives reload 
+PASS 1440px booking success state shows reference 
+PASS 1440px bad mobile shows an error 
+PASS 1440px client sees role refusal on /staff 
+PASS 1440px anonymous /trips asks to sign in 
+PASS 1440px staff lands on operations 
+PASS 1440px staff confirms a request 
+PASS 1440px staff sees permit selects 
+PASS 1440px admin sees the activity log 
+PASS 1440px admin dashboard shows payments taken 0 
+PASS no console errors or page errors across all runs 
+SUMMARY 83 of 83 checks pass
