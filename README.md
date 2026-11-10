@@ -5,7 +5,7 @@ Trek operations for a Nepal trekking agency: open departures, seat holds, reques
 **All data in this build is DEMO data.** Treks, departures, prices, crew, people and bookings are invented for testing. Nothing here is a real operator's product or price.
 
 - Live: https://trailbook.sites.tab.bot/ (HTTP 200, checked 2026-11-10)
-- Repository: https://github.com/nabinbabuuranw/trailbook (MIT, one commit on `main`)
+- Repository: https://github.com/nabinbabuuranw/trailbook (MIT). Two commits on `main`: the first holds only this README, the second the full source. GitHub refuses Git data writes into an empty repository, and a force-push was not allowed, so the history is not one commit.
 - Demo sign-in: the Login page has one-tap **Demo** buttons for Client, Staff and Admin. Email and password for each:
   - Client: `client@demo.trailbook.example` / `DemoClient2026`
   - Staff: `staff@demo.trailbook.example` / `DemoStaff2026`
